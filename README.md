@@ -1,4 +1,7 @@
 # App detect and Classifier using Yolov3 on Android 
+<p align="center">
+  <img src="img/logo.jpg" />
+</p>
 ## TOOL
 - OpenCV 3.4.3
 - Android Studio
@@ -82,9 +85,28 @@ include ':openCVLibrary343'
     <uses-feature android:name="android.hardware.camera.front.autofocus" android:required="false"/>
 ```
 #### RecognizeImage using tensorflow in Java
-    to be Update
-#### YoloV3-tiny in Java
-    to be Update
+- Training model 
+<p align="center">
+  <img src="img/train.PNG" />
+</p>
+- Main processing
+<p align="center">
+  <img src="img/processing.PNG" />
+</p>
+- Main Algorithm
+<p align="center">
+  <img src="img/mainAlgorithm.PNG" />
+</p>    
+- Android Async Task
+<p align="center">
+  <img src="img/androidprocess.PNG" />
+</p>  
+<p align="center">
+  <img src="img/AsyncAndroid.PNG" />
+</p>  
+<p align="center">
+  <img src="img/mainAndroid.PNG" />
+</p>  
 ### 3. Result
 - App identifies and classifies correctly, but lacks
 <p align="center">
@@ -92,4 +114,10 @@ include ':openCVLibrary343'
 </p>
 <p align="center">
   <img src="img/kq2.jpg" />
+</p>
+<p align="center">
+  <img src="img/result1.jpg" />
+</p>
+<p align="center">
+  <img src="img/result2.jpg" />
 </p>
