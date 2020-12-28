@@ -1,0 +1,10 @@
+not wearing a facemask
+not wearing a hardhat
+not wearing a safety vest
+wearing a facemask
+wearing a hardhat
+wearing a safety vest
+
+
+
+
